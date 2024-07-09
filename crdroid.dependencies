@@ -1,0 +1,31 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_samsung_gta4l-common",
+    "target_path": "device/samsung/gta4l-common",
+    "branch": "14.0"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_samsung_gta4l",
+    "target_path": "kernel/samsung/gta4l"
+    "branch": "14.0"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_samsung_gta4lwifi",
+    "target_path": "vendor/samsung/gta4lwifi"
+    "branch": "14.0"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_samsung_gta4l-common",
+    "target_path": "vendor/samsung/gta4l"
+    "branch": "14.0"
+  },
+  {
+    "repository": "crdroidandroid/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "14.0"
+  },
+  {
+    "repository": "crdroidandroid/proton-clang.git",
+    "target_path": "prebuilts/clang/host/linux-x86/proton-clang",
+  }
+]
